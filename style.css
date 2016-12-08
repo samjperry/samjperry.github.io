@@ -4,4 +4,5 @@ body {
 
 .meme {
   letter-spacing: 7px;
+  text-transform: capitalzize;
 }
