@@ -1,9 +1,29 @@
 body {
-  background-color: F3F3F3;
-  margin: 100em 100em 100em 100em;
-  }
+	background-color: F3F3F3;
+}
+
+h1 {
+	text-align: center;
+}
+
+.site {
+	margin: 2em 2em 2em 2em;
+}
 
 .meme {
-  letter-spacing: 7px;
-  text-transform: uppercase;
+	letter-spacing: 7px;
+	text-transform: uppercase;
+}
+
+.main {
+	width: 20%;
+	float: left;
+	overflow: hidden;
+
+}
+
+.mainb {
+	width: 20%;
+	float: right;
+	overflow: hidden;
 }
